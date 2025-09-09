@@ -1,11 +1,11 @@
-import Image from "next/image";
-import HeroPage from "@/components/hero";
+
 
 export default function Home() {
     return (
         <div className={'relative h-screen'}>
             <div>
-                <HeroPage/>
+              <h1>Hello Next js
+              </h1>
             </div>
         </div>
     );
